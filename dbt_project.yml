@@ -3,4 +3,4 @@ models:
   jaffle_shop:
     +materialized: table
     example:
-      +materialized: viewS
+      +materialized: views
